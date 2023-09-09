@@ -31,14 +31,34 @@
       "href": "#about"
     }
   },
-  "product": {
+  "howItWorks": {
     "title": "Como funciona?",
-    "description": "Descrição básica da jornada do cliente"
+    "description": "Combustíveis fósseis geram muita poluição na sua concepção e para amenizar isso, nossa empresa fornece um sistema de compensação com créditos de carbono para redes de postos de gasolina que queiram fazer parte da nova forma de abastecer, e para o motorista, o processo é simples:",
+    "step1": {
+      "title": "Vá a um posto parceiro",
+      "description": "Utilize nosso mapa ou verifique os totens na sua cidade",
+      "icon": "/assets/images/tailwindcss.svg"
+    },
+    "step2": {
+      "title": "Utilize a bomba verde",
+      "description": "Ao adentrar no posto, busque a bomba sinalizada como verde",
+      "icon": "/assets/images/tailwindcss.svg"
+    },
+    "step3": {
+      "title": "Após abastecer, sua compensação é feita automaticamente",
+      "description": "É calculado a quantidade de CO2 compensado",
+      "icon": "/assets/images/tailwindcss.svg"
+    },
+    "step4": {
+      "title": "Receba seu certificado",
+      "description": "Seja por email ou whatsapp, seu certificado será enviado comprovando ação",
+      "icon": "/assets/images/tailwindcss.svg"
+    }
   },
   "features": {
     "title": "Postos parceiros",
     "subtitle": "Onde encontrar?",
-    "description": "Descrição de onde encontrar nossos postos parceiros",
+    "description": "Possível mapa com marcadores mostrando os postos parceiros e sua área de cobertura",
     "items": [
       {
         "name": "React.js",
