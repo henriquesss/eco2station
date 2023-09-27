@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "eco2station",
+    "name": "green",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -14,8 +14,8 @@
     }
   ],
   "callToAction": {
-    "text": "Contato",
-    "href": "footer"
+    "text": "Postos parceiros",
+    "href": "/postos-parceiros"
   },
   "mainHero": {
     "title": "A nova forma de abastecer",
@@ -58,7 +58,7 @@
   "features": {
     "title": "Postos parceiros",
     "subtitle": "Onde encontrar?",
-    "description": "Possível mapa com marcadores mostrando os postos parceiros e sua área de cobertura",
+    "description": "Faça parte da nova economia e seja um posto parceiro clicando abaixo",
     "items": [
       {
         "name": "React.js",

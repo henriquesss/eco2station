@@ -14,7 +14,7 @@ const Footer = () => {
     >
       <div className="flex flex-col items-center justify-center">
         <h1 className="font-bold text-2xl text-primary">{companyName}</h1>
-        <p>contato@eco2station.com</p>
+        <p>contato@greenfuel.com</p>
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
           {sections.map((section, index) => (
             <a

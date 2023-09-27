@@ -2,12 +2,12 @@
   // Configuration for JavaScript files
   "extends": ["airbnb-base", "plugin:prettier/recommended"],
   "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "singleQuote": true
-      }
-    ]
+    // "prettier/prettier": [
+    //   "error",
+    //   {
+    //     "singleQuote": true
+    //   }
+    // ]
   },
   "overrides": [
     // Configuration for TypeScript files
@@ -26,7 +26,7 @@
         "prettier/prettier": [
           "error",
           {
-            "singleQuote": true
+            "singleQuote": false
           }
         ],
         "react/destructuring-assignment": "off", // Vscode doesn't support automatically destructuring, it's a pain to add a new variable
